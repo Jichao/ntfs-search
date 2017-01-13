@@ -1,0 +1,8 @@
+ipch/*
+*.VC.db
+.vs/*
+Debug/*
+Release/*
+NTFS-Search/Debug/*
+NTFS-Search/Release/*
+*.un~
